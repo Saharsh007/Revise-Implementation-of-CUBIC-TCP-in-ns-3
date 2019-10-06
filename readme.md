@@ -30,5 +30,5 @@ or [click here](https://github.com/Saharsh007/Revise-Implementation-of-CUBIC-TCP
 [tcp-cubic.h](https://gitlab.com/tomhenderson/ns-3-dev/blob/tcp-cubic/src/internet/model/tcp-cubic.h)
 
 
-[3] [CUBIC TCP implementation in ns-2.35](https://github.com/NetSys/ups/blob/master/ns-allinone-2.35/ns-2.35/tcp/linux/src/tcp_cubic.cc)
+[3] [CUBIC TCP implementation in ns-2.35](https://github.com/Saharsh007/Revise-Implementation-of-CUBIC-TCP-in-ns-3/blob/master/ns-2.35%20CUBIC%20TCP%20implementation/tcp_cubic.c)
 
