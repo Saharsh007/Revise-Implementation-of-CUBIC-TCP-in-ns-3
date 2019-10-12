@@ -4,6 +4,16 @@
 
 ## Assignment: #3
 
+
+
+### Team Members
+- [Kumar Saharsh](https://github.com/Saharsh007) - 17CO121
+- [Saurabh Singhal](https://github.com/saurabh8522) - 17CO240
+- [Prateek Sahu](https://github.com/Prateek1337) - 17CO130
+
+### Instructor
+Mohit P. Tahiliani
+
 ### Overview
 CUBIC TCP is the default TCP in Linux since 2007. One of the ns-3 developers has
 implemented CUBIC TCP in ns-3.  
@@ -32,14 +42,6 @@ or [click here](https://github.com/Saharsh007/Revise-Implementation-of-CUBIC-TCP
 
 [3] [CUBIC TCP implementation in ns-2.35](https://github.com/Saharsh007/Revise-Implementation-of-CUBIC-TCP-in-ns-3/blob/master/ns-2.35%20CUBIC%20TCP%20implementation/tcp_cubic.c)
 
-
-### Team Members
-- [Kumar Saharsh](https://github.com/Saharsh007) - 17CO121
-- [Saurabh Singhal](https://github.com/saurabh8522) - 17CO240
-- [Prateek Sahu](https://github.com/Prateek1337) - 17CO130
-
-### Instructor
-Mohit P. Tahiliani
 
 ## Wiki
 Check out the [wiki](https://github.com/Saharsh007/Revise-Implementation-of-CUBIC-TCP-in-ns-3/wiki)
